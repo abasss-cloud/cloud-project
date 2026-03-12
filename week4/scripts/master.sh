@@ -13,7 +13,7 @@ echo "  Date: $(date)"
 echo "================================"
 
 # Go to scripts folder
-cd ~/myscripts
+cd ~/cloud-project/week4/scripts
 
 echo ""
 echo "Which script do you want to run?"
